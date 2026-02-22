@@ -77,34 +77,6 @@ This demonstrates how digital communication concepts apply to real-world voice s
 
 ---
 
-## Technologies Used
-
-- Python  
-- NumPy  
-- SciPy  
-- Matplotlib  
-- SoundDevice  
-
----
-
-## How to Run
-
-Install dependencies:
-
-```bash
-pip install numpy scipy matplotlib sounddevice
-```
-
-Run the main script or notebook:
-
-```bash
-python main.py
-```
-
-Note: The audio recording section should not be re-run unless you want to overwrite the saved audio file.
-
----
-
 ## Course Information
 
 Communication Systems  
